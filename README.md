@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Akash Singh
-- 👀 I’m interested in learning Artificial Intelligence and Programming Languages like Python, Java, C++
+- 👀 I’m interested in learning Artificial Intelligence and Programming Languages like Python, Java, C#
 - 🌱 I’m currently learning python language, Machine Learning and Artificial Intelligence
 - 📫 How to reach me - @AkashSingh2002 || LinkedIn - akashsingh14032000@gmail.com
